@@ -1,6 +1,6 @@
 {
   "name": "winston-slack-transport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "contributors": [
     "Magnus Hoff <maghoff@gmail.com>",
     "Andrew Batchelor <andy.batchelor@tritondigital.com>"
