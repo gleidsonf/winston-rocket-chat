@@ -1,19 +1,20 @@
 {
-  "name": "winston-slack-transport",
-  "version": "2.0.0",
+  "name": "winston-rocketchat-transport",
+  "version": "0.1.0",
   "contributors": [
+    "Gleidson Ferreira <gleidson.fgs@gmail.com>",
     "Magnus Hoff <maghoff@gmail.com>",
     "Andrew Batchelor <andy.batchelor@tritondigital.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wja-no/winston-slack"
+    "url": "https://github.com/gleidsonf/winston-rocket-chat"
   },
   "keywords": [
     "logging",
     "sysadmin",
     "tools",
-    "winston",
+    "rocket-chat",
     "slack",
     "log",
     "logger"
@@ -21,7 +22,7 @@
   "peerDependencies": {
     "winston": ">=0.7.2"
   },
-  "main": "./lib/winston-slack",
+  "main": "./lib/winston-rocketchat",
   "engines": {
     "node": ">= 0.6.0"
   },
